@@ -1,5 +1,5 @@
 # 🚜 Bulldozer Price Prediction using Machine Learning  
-# 🚜 Project Name = DozerPricePredict
+## 🚜 Project Name = DozerPricePredict
 
 Predicting the sale price of bulldozers using historical data and machine learning techniques.  
 This project is based on the **Kaggle Bluebook for Bulldozers Competition**, where the goal is to forecast the auction sale price of bulldozers based on their characteristics and past sales records.  
