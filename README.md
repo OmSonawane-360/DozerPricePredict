@@ -6,7 +6,7 @@ This project is based on the **Kaggle Bluebook for Bulldozers Competition**, whe
 
 ---  
 
-## 📖 Project Overview   
+## 📖 Project Overview    
 
 In this notebook, we go through an **end-to-end machine learning project** where we:       
 - Use bulldozer characteristics (make, model, year, size, drive system, state of sale, etc.)  
