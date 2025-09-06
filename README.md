@@ -5,7 +5,7 @@ Predicting the sale price of bulldozers using historical data and machine learni
 This project is based on the **Kaggle Bluebook for Bulldozers Competition**, where the goal is to forecast the auction sale price of bulldozers based on their characteristics and past sales records.  
  
 ---   
-    
+     
 ## 📖 Project Overview       
   
 In this notebook, we go through an **end-to-end machine learning project** where we:         
